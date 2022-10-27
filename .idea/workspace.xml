@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44e8ed8d-aa45-46b1-b4b0-b5079910df33" name="Changes" comment="Apply changes">
-      <change afterPath="$PROJECT_DIR$/src/Exercise5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666685089287</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Apply changes">
+      <created>1666685896514</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666685896514</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
