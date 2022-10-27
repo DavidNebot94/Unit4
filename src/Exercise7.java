@@ -10,6 +10,7 @@ import java.util.Scanner;
  dni.obtenerLetra();
  }
  }
+ //No entiendo ese error
 public class DNI {
     private int numeroDNI;
     private final char [] letras = {'T','R','W','A','G','M','Y','F','P','D','X','B','N','J','Z','S','Q','V','H','L','C','K','E'};

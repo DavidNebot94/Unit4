@@ -1,3 +1,4 @@
+//Desastre total pero preferia entregartelo
 public class Exercise11 {
     public static int numRows = 8;
     public static int numCols = 8;
